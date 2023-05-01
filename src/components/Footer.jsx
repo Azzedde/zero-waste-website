@@ -16,7 +16,7 @@ const Footer = () => {
         <h1 className='w-full text-5xl font-bold self-center text-black '>Zero Waste.</h1>
         <p className='py-4 text-3xl font-bold text-center'>Follow Us</p>
         <div className='flex justify-between md:w-[75%] my-6 ml-5 '>
-            <FaFacebookSquare size={30} />
+            <Link to='https://www.facebook.com/profile.php?id=100092202456903'><FaFacebookSquare size={30} /></Link>
            <Link to='https://www.instagram.com/zer0.w4ste/'><FaInstagram size={30} /></Link> 
            <Link to='https://twitter.com/Zer0W4ste0' > <FaTwitterSquare size={30} /></Link>
            <Link to='https://www.youtube.com/channel/UCZmqHlJYmgs4wjBpWW1bcRg'> <FaYoutubeSquare size={30} /> </Link>

@@ -7,7 +7,7 @@ const Hero = () => {
     return(
         <section className='text-black' id='home'>
             <div className='max-w[800px] mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center '>
-            <p className= 'text-2xl sm:text-xl text-[#03af59] font-bold p-3 '>Together, we make the difference !</p>
+            <p className= 'md:text-2xl sm:text-xl text-[#03af59] font-bold p-3 '>Together, we make the difference !</p>
             <h1 className='md:text-7xl sm:txt-6xl text-4xl font-bold md:py-6  '>Zero Waste</h1>
             <div className='flex justify-center items-center '>
                 <p className='md:text-3xl sm:text-2xl text-xl font-bold'> Efficient and Reliable for </p>
